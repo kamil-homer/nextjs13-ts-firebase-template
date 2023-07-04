@@ -1,3 +1,9 @@
+It helps you to start your new project quickly.
+Change `_env.local` file to `env.local`, and paste your Vercel and Firebase config.
+This template doesn't include any CSS lib - I believe that the choice here may be different for every project.
+
+Thank you for using the template. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
