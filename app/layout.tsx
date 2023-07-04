@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "HighWheel",
-  description: "Next gen",
+  title: "next13-ts-firebase",
+  description: "template",
 };
 
 export default function RootLayout({
